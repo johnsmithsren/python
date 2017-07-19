@@ -1,0 +1,16 @@
+Cerberus==1.1
+Flask==0.12.1
+Jinja2==2.9.6
+MarkupSafe==1.0
+PyMySQL==0.7.11
+PyYAML==3.12
+SQLAlchemy==1.1.9
+Werkzeug==0.12.1
+click==6.7
+gevent==1.2.1
+greenlet==0.4.12
+itsdangerous==0.24
+redis==2.10.5
+wsgiref==0.1.2
+xmltodict==0.10.2
+requests==2.12.3
